@@ -1,4 +1,4 @@
-<![trabalho_page-0010](https://github.com/user-attachments/assets/92fa1895-aa5f-498a-aad0-2cc98cdbc317)>
+<img src="https://github.com/user-attachments/assets/92fa1895-aa5f-498a-aad0-2cc98cdbc317" align="right" width="300">
 
 # Libras Tech
 
