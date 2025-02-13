@@ -21,9 +21,10 @@ O projeto visa melhorar a inclusão de surdos na área de **Tecnologia da Inform
 
 Durante a fase de prototipação, foi criado um protótipo de alta fidelidade utilizando **Figma** e outras ferramentas como **Adobe** e **Clip Studio Paint** para a criação da logomarca.
 O protótipo foi testado com três testadores, e melhorias foram feitas com base nos feedbacks recebidos.
-![mapa-mental-01](https://github.com/user-attachments/assets/d94e0817-4ef4-45c8-96fe-6f4f68bd81ab)
+![mapa-mental-01](https://github.com/user-attachments/assets/95b813d0-f5a2-48fe-b563-27bddde9ea87)
 
-![mapa-mental-02](https://github.com/user-attachments/assets/1eb3639a-c33b-416e-a784-2f16938f4b8d)
+![mapa-mental-02](https://github.com/user-attachments/assets/c0f67856-2660-4248-946f-39bb84115381)
+
 
 
 ### Telas Desenvolvidas
