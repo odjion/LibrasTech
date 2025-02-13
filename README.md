@@ -4,6 +4,8 @@
 
 O **Libras Tech** é um aplicativo desenvolvido para facilitar a comunicação entre a comunidade de **Tecnologia da Informação (TI)** e a comunidade surda no Brasil. Seu principal objetivo é traduzir palavras e conceitos da área de TI da língua portuguesa para a **Língua Brasileira de Sinais (Libras)**, oferecendo traduções confiáveis e aprovadas pela comunidade surda e intérpretes de Libras.
 
+* [Acesse o protótipo de alta fidelidade clicando aqui:](https://www.figma.com/proto/Dt6TWLadXaVuDS1oqDZ6FC/Prot%C3%B3tipo-de-Alta-Fidelidade-(Community)?node-id=5-17&p=f&t=dVsYOkdzuUzsAgj1-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
+
 ## Objetivo
 
 O projeto visa melhorar a inclusão de surdos na área de **Tecnologia da Informação**, criando um ambiente onde é possível aprender, compartilhar e sugerir novos sinais para expandir o vocabulário da comunidade. O aplicativo utiliza recursos como **realidade virtual (VR)**, o **TradutorVR** e o **VLibras**, para facilitar a interação e aprendizado dos usuários.
